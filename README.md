@@ -1,2 +1,0 @@
-# mvvmDaniel
-aula de programação
